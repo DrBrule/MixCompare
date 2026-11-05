@@ -114,5 +114,8 @@ BlackHole, then choose **Sidechain** as the comparison source.
 
 ## Licence
 
-JUCE is dual-licensed under the AGPLv3 and a commercial licence. Distributing this plugin requires
-meeting one or the other: see the [JUCE licence terms](https://juce.com/legal/juce-9-licence/).
+Mix Compare is licensed under the [GNU Affero General Public License v3.0](LICENSE), as JUCE requires
+for an open-source plugin built on it without a commercial JUCE licence. See the
+[JUCE licence terms](https://juce.com/legal/juce-9-licence/).
+
+The Michroma font in `resources/fonts` is under the [SIL Open Font License 1.1](resources/fonts/OFL.txt).

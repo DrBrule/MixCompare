@@ -1,0 +1,119 @@
+{
+    "defaultTheme": "Default",
+    "themes": [
+        {
+            "name": "Default",
+            "font": "Michroma",
+            "colours": {
+                "background": [28, 28, 28],
+                "panel": [39, 39, 39],
+                "grid": [64, 64, 64],
+                "text": [221, 221, 221],
+                "textDim": [142, 142, 142],
+                "mix": [190, 0, 190],
+                "mixAverage": [219, 115, 219],
+                "mixDim": [109, 14, 109],
+                "mixText": [206, 64, 206],
+                "comparison": [0, 76, 153],
+                "comparisonAverage": [115, 157, 199],
+                "comparisonDim": [14, 52, 90],
+                "comparisonText": [64, 121, 178]
+            }
+        },
+        {
+            "name": "Forest",
+            "font": "Michroma",
+            "colours": {
+                "background": [250, 250, 250],
+                "panel": [238, 238, 238],
+                "grid": [210, 210, 210],
+                "text": [38, 38, 38],
+                "textDim": [125, 125, 125],
+                "mix": [0, 250, 0],
+                "mixAverage": [0, 138, 0],
+                "mixDim": [125, 250, 125],
+                "mixText": [0, 125, 0],
+                "comparison": [153, 76, 0],
+                "comparisonAverage": [84, 42, 0],
+                "comparisonDim": [202, 163, 125],
+                "comparisonText": [76, 38, 0]
+            }
+        },
+        {
+            "name": "Sunny",
+            "font": "Michroma",
+            "colours": {
+                "background": [255, 246, 222],
+                "panel": [242, 234, 211],
+                "grid": [214, 207, 186],
+                "text": [38, 37, 33],
+                "textDim": [128, 123, 111],
+                "mix": [235, 110, 0],
+                "mixAverage": [129, 60, 0],
+                "mixDim": [245, 178, 111],
+                "mixText": [118, 55, 0],
+                "comparison": [0, 125, 180],
+                "comparisonAverage": [0, 69, 99],
+                "comparisonDim": [128, 186, 201],
+                "comparisonText": [0, 62, 90]
+            }
+        },
+        {
+            "name": "Nighttime",
+            "font": "Michroma",
+            "colours": {
+                "background": [12, 16, 32],
+                "panel": [24, 28, 43],
+                "grid": [51, 54, 68],
+                "text": [219, 219, 222],
+                "textDim": [134, 136, 144],
+                "mix": [255, 196, 64],
+                "mixAverage": [255, 223, 150],
+                "mixDim": [134, 106, 48],
+                "mixText": [255, 211, 112],
+                "comparison": [96, 140, 255],
+                "comparisonAverage": [168, 192, 255],
+                "comparisonDim": [54, 78, 144],
+                "comparisonText": [136, 169, 255]
+            }
+        },
+        {
+            "name": "Ocean",
+            "font": "Michroma",
+            "colours": {
+                "background": [14, 34, 44],
+                "panel": [26, 45, 55],
+                "grid": [53, 69, 78],
+                "text": [219, 222, 223],
+                "textDim": [134, 144, 150],
+                "mix": [0, 214, 190],
+                "mixAverage": [115, 232, 219],
+                "mixDim": [7, 124, 117],
+                "mixText": [64, 224, 206],
+                "comparison": [255, 120, 96],
+                "comparisonAverage": [255, 181, 168],
+                "comparisonDim": [134, 77, 70],
+                "comparisonText": [255, 154, 136]
+            }
+        },
+        {
+            "name": "Ember",
+            "font": "Michroma",
+            "colours": {
+                "background": [32, 24, 22],
+                "panel": [43, 36, 34],
+                "grid": [68, 61, 59],
+                "text": [222, 220, 220],
+                "textDim": [144, 140, 138],
+                "mix": [255, 128, 32],
+                "mixAverage": [255, 185, 132],
+                "mixDim": [144, 76, 27],
+                "mixText": [255, 160, 88],
+                "comparison": [120, 200, 170],
+                "comparisonAverage": [181, 225, 208],
+                "comparisonDim": [76, 112, 96],
+                "comparisonText": [154, 214, 191]
+            }
+        }
+    ]
+}
